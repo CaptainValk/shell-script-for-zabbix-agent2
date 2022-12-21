@@ -1,0 +1,1 @@
+# shell-script-for-zabbix-agent2
